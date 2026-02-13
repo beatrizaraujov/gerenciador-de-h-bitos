@@ -10,7 +10,7 @@ Renderização dinâmica baseada em estado
 
 Estrutura preparada para expansão de regras de negócio
 
-🛠 Stack
+- Stack
 
 React
 
